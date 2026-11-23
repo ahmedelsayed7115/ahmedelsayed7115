@@ -1,6 +1,11 @@
 # Ahmed Elsayed — Data Analyst & Business Intelligence Portfolio
 
-[![Power BI](https://img.shields.io/badge/Power_BI-DAX_%7C_TMDL_%7C_.pbip-F2C811?logo=powerbi&logoColor=black)](https://github.com/ahmedelsayed7115?tab=repositories)
+🌐 **[Launch Main Interactive Portfolio Website → https://ahmedelsayed7115.github.io/](https://ahmedelsayed7115.github.io/)**
+
+[![Portfolio Website](https://img.shields.io/badge/Live_Portfolio-ahmedelsayed7115.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmedelsayed7115.github.io/)
+[![Contact Email](https://img.shields.io/badge/Email-ahmedelsayed7115%40gmail.com-14B8A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedelsayed7115@gmail.com)
+
+[![Power BI](https://img.shields.io/badge/Power_BI-DAX_%7C_TMDL_%7C_.pbip-F2C811?logo=powerbi&logoColor=black)](https://ahmedelsayed7115.github.io/)
 [![Tableau](https://img.shields.io/badge/Tableau-Executive_Dashboards-E97627?logo=tableau&logoColor=white)](https://github.com/ahmedelsayed7115/healthcare-operations-report)
 [![SQL](https://img.shields.io/badge/SQL-DuckDB_%7C_Star_Schema_%7C_Window_Functions-0F172A?logo=duckdb&logoColor=FFF000)](https://github.com/ahmedelsayed7115/healthcare-operations-report)
 [![Python](https://img.shields.io/badge/Python-pandas_%7C_NumPy_%7C_scikit--learn-3776AB?logo=python&logoColor=white)](https://github.com/ahmedelsayed7115/hr-talent-performance-analytics)
